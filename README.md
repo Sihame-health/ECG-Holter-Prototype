@@ -1,6 +1,6 @@
 # 🩺 Portable ECG Holter System (Prototype)
 
-This repository contains the hardware design, firmware, and mobile application for a **Portable ECG Holter System prototype**, developed as a Bachelor's Degree Final Project (Projet de Fin d'Études - PFE) in Biomedical Electronic Equipment Maintenance (MEEB) at the Higher School of Technology of Fez (ESTF)
+This repository contains the hardware design, firmware, and mobile application for a **Portable ECG Holter System prototype**, developed as a Bachelor's Degree Final Project (Projet de Fin d'Études - PFE) in Biomedical Equipment Maintenance at the Higher School of Technology of Fez (ESTF)
 
 ---
 
